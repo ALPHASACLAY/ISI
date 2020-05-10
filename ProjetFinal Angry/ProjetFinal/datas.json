@@ -1,0 +1,334 @@
+{
+    "niveau1" : {
+      "objets": [
+		{
+		  "x" : 600, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		 {
+		  "x" : 700, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		 {
+		  "x" : 580, 
+		  "y": 110,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisHorizontal",
+		  "type":"n"
+		},
+		 {
+		  "x" : 750, 
+		  "y": 70,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreBlock",
+		  "type":"n"
+		},
+		 {
+		  "x" : 846, 
+		  "y": 250,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisBlock",
+		  "type":"n"
+		},
+		 {
+		  "x" : 846, 
+		  "y": 150,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreBlock",
+		  "type":"n"
+		},
+		 {
+		  "x" : 900, 
+		  "y": 0,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"pierreVerticale",
+		  "type":"n"
+		}
+      ],
+     "cibles":[
+     	{
+     	  "type":"n",
+		  "x" : 800, 
+		  "y": 0,
+		  "m" : 2
+		}
+
+     ],
+     "proj":[
+     	"proj1","proj4","proj3","proj2","proj5", "proj3", "proj4"
+     ],
+     "imFond":"fond1"
+    },
+    "niveau2" : {
+      "objets": [
+		{
+		  "x" : 550, 
+		  "y": 400,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreVerticale",
+		  "type":"n"
+		},
+		 {
+		  "x" : 480, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisHorizontal",
+		  "type":"n"
+		},
+		{
+		  "x" : 600, 
+		  "y": 300,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		 {
+		  "x" : 500, 
+		  "y": 300,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreVerticale",
+		  "type":"n"
+		},
+		 {
+
+		  "x" : 480, 
+		  "y": 0,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreHorizontale",
+		  "type":"n"
+		},
+		{
+
+		  "x" : 300, 
+		  "y": 50,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreVerticale",
+		  "type":"v"
+		}
+      ],
+     "cibles":[
+     	{
+     	  "type":"n",
+		  "x" : 480, 
+		  "y": 500,
+		  "m" : 2
+		},
+		{
+     	  "type":"v",
+		  "x" : 800, 
+		  "y": 400,
+		  "m" : 1
+		}
+
+     ],
+     "proj":[
+     	"proj1","proj4","proj3","proj2","proj5","proj2","proj2","proj1","proj3","proj2"
+     ],
+     "imFond":"fond1"
+    },
+    "niveau3" : {
+      "objets": [
+		{
+		  "x" : 600, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		{
+		  "x" : 500, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		 {
+		  "x" : 700, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		{
+		  "x" : 800, 
+		  "y": 400,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		 {
+		  "x" : 480, 
+		  "y": 300,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisHorizontal",
+		  "type":"n"
+		},
+		{
+		  "x" : 680, 
+		  "y": 300,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisHorizontal",
+		  "type":"n"
+		},
+		 {
+		  "x" : 600, 
+		  "y": 200,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreVerticale",
+		  "type":"n"
+		},
+		{
+		  "x" : 700, 
+		  "y": 200,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreVerticale",
+		  "type":"n"
+		},
+		 {
+		  "x" : 580, 
+		  "y": 100,
+		  "m" : 8,
+		  "t" : "p",
+		  "im":"pierreHorizontale",
+		  "type":"n"
+		},
+		{
+		  "x" : 700, 
+		  "y": 0,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisVertical",
+		  "type":"n"
+		},
+		{
+		  "x" : 770, 
+		  "y": 200,
+		  "m" : 5,
+		  "t" : "b",
+		  "im":"boisBlock",
+		  "type":"n"
+		}
+      ],
+     "cibles":[
+     	{
+     	  "type":"n",
+		  "x" : 800, 
+		  "y": 0,
+		  "m" : 1
+		},
+		{
+		  "type":"n",
+		  "x" : 650, 
+		  "y": 0,
+		  "m" : 1
+		}
+
+     ],
+     "proj":[
+     	"proj2","proj5","proj2","proj1","proj3","proj1","proj5","proj3","proj1","proj2","proj2", "proj1"
+     ],
+     "imFond":"fond1"
+    }
+    ,
+    "niveau4" : {
+      "objets": [
+
+		 
+		
+		{
+		  "x" : 580, 
+		  "y": 0,
+		  "m" : 5,
+		  "t" : "n",
+		  "im":"neigeVerticale",
+		  "type":"n"
+		},
+		 {
+		  "x" : 500, 
+		  "y": 400,
+		  "m" :8 ,
+		  "t" : "g",
+		  "im":"glaceVerticale",
+		  "type":"n"
+		},
+		{
+		  "x" : 480, 
+		  "y": 300,
+		  "m" : 5,
+		  "t" : "n",
+		  "im":"neigeHorizontale",
+		  "type":"n"
+		},
+		{
+		  "x" : 400, 
+		  "y": 400,
+		  "m" : 8,
+		  "t" : "g",
+		  "im":"glaceBlock",
+		  "type":"n"
+		},
+		{
+		  "x" : 560, 
+		  "y": 100,
+		  "m" : 8,
+		  "t" : "g",
+		  "im":"neigeBlock",
+		  "type":"n"
+		},		{
+		  "x" : 600, 
+		  "y": 400,
+		  "m" : 8,
+		  "t" : "g",
+		  "im":"glaceVerticale",
+		  "type":"n"
+		}
+		
+      ],
+     "cibles":[
+     	{
+     	  "type":"g",
+		  "x" : 460, 
+		  "y": 200,
+		  "m" : 2
+		},     	
+		{
+     	  "type":"g",
+		  "x" : 490, 
+		  "y": 200,
+		  "m" : 2
+		}
+
+     ],
+     "proj":[
+     	"proj1","proj4","proj3","proj2","proj5","proj2","proj3","proj4"
+     ],
+     "imFond":"fond2"
+    }
+}

@@ -1,0 +1,107 @@
+#Play{
+	position: absolute;
+	left: 330px;
+	top: 150px;
+	width:50px;
+	height: :30px;
+	
+
+	cursor:pointer;
+}
+
+
+#Niveau1{
+	position: absolute;
+	left: 200px;
+	top: 400px;
+	cursor:pointer;
+}
+
+#Niveau2{
+	position: absolute;
+	left: 350px;
+	top: 400px;
+	cursor:pointer;
+}
+#Niveau3{
+	position: absolute;
+	left: 500px;
+	top: 400px;
+	cursor:pointer;
+}
+#Niveau4{
+	position: absolute;
+	left: 650px;
+	top: 400px;
+	cursor:pointer;
+}
+
+#Select{
+	width:150px;
+	height: :50px;
+	position: absolute;
+	left: 330px;
+	top: 300px;
+
+	
+}
+
+#Menu{
+	position: absolute;
+	left: 200px;
+	top: 630px;
+	cursor:pointer;
+}
+
+
+#Replay{
+	position: absolute;
+	left: 350px;
+	top: 630px;
+	cursor:pointer;
+}
+#Next{
+	position: absolute;
+	left: 500px;
+	top: 630px;
+	cursor:pointer;
+}
+
+#Failed{
+	position: absolute;
+	width:200px;
+	height: :100px;
+	left: 170px;
+	top: 150px;
+	cursor:pointer;
+}
+#Cleared{
+	position: absolute;
+	width:200px;
+	height: :100px;
+	left: 170px;
+	top: 150px;
+	cursor:pointer;
+}
+#Instr{
+	position: absolute;
+
+	left: 110px;
+	top: 110px;
+
+}
+#Help{
+	position: absolute;
+
+	left: 1020px;
+	top: 100px;
+	cursor:pointer;
+}
+
+#NbProj{
+	position: absolute;
+
+	left: 50px;
+	top: 15px;
+	
+}

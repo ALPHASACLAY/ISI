@@ -1,2 +1,2 @@
 # ISI
-Jeux vidéo : Angry Bird
+Jeux: Angry Bird
